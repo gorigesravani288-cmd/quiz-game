@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  4 22:48:32 2026
 
-@author: lokes
+@author: sravani
 """
 
 score = 0
